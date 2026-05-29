@@ -1,4 +1,4 @@
-# data_analytics_package
+# data_analytics_project-100
 
 Before run you need:
 
@@ -17,7 +17,7 @@ Before run you need:
 To run execute:
 
 ```bash
-jupyter execute project.ipynb
+jupyter execute charts_project.ipynb
 ```
 
 ---
