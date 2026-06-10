@@ -1,5 +1,7 @@
 # data_analytics_project-100
 
+Проект: Дашборд конверсии для образовательной платформы.
+Подготовить дашборд, презентацию и выводы. Все сделать в Jupyter notebook.
 Before run you need:
 
 - jupyter notebook
